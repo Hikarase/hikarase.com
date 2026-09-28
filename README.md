@@ -10,6 +10,7 @@ mobile-app/index.html    アプリの紹介と問い合わせ先
 privacy/index.html       乾杯ウォッチのプライバシーポリシー
 privacy/kyukan/          休肝ウォッチのプライバシーポリシー
 privacy/taiju/           体重ウォッチのプライバシーポリシー
+privacy/taotao/          タオタオのプライバシーポリシー
 app-ads.txt              AdMob のアプリ確認用
 style.css                共通スタイル
 CNAME                    独自ドメインの設定
